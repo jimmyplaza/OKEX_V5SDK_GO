@@ -1,13 +1,13 @@
 package ws
 
 import (
-	. "OKEX_V5SDK_GO/config"
-	"OKEX_V5SDK_GO/rest"
-	. "OKEX_V5SDK_GO/utils"
-	. "OKEX_V5SDK_GO/ws/wImpl"
-	. "OKEX_V5SDK_GO/ws/wInterface"
 	"context"
 	"errors"
+	. "github.com/jimmyplaza/OKEX_V5SDK_GO/config"
+	"github.com/jimmyplaza/OKEX_V5SDK_GO/rest"
+	. "github.com/jimmyplaza/OKEX_V5SDK_GO/utils"
+	. "github.com/jimmyplaza/OKEX_V5SDK_GO/ws/wImpl"
+	. "github.com/jimmyplaza/OKEX_V5SDK_GO/ws/wInterface"
 	"log"
 	"sync"
 	"time"

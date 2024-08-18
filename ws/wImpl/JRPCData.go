@@ -4,8 +4,8 @@ JRPC请求/响应数据
 package wImpl
 
 import (
-	. "OKEX_V5SDK_GO/utils"
 	"encoding/json"
+	. "github.com/jimmyplaza/OKEX_V5SDK_GO/utils"
 )
 
 // jrpc请求结构体

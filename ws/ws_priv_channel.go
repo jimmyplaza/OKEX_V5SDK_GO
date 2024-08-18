@@ -1,7 +1,7 @@
 package ws
 
 import (
-	. "OKEX_V5SDK_GO/ws/wImpl"
+	. "github.com/jimmyplaza/OKEX_V5SDK_GO/ws/wImpl"
 )
 
 /*

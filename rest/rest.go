@@ -1,12 +1,12 @@
 package rest
 
 import (
-	. "OKEX_V5SDK_GO/utils"
 	"bytes"
 	"context"
 	"encoding/json"
 	"errors"
 	"fmt"
+	. "github.com/jimmyplaza/OKEX_V5SDK_GO/utils"
 	"io/ioutil"
 	"net/http"
 	"strings"

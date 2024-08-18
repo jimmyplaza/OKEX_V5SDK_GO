@@ -1,6 +1,6 @@
 package wInterface
 
-import . "OKEX_V5SDK_GO/ws/wImpl"
+import . "github.com/jimmyplaza/OKEX_V5SDK_GO/ws/wImpl"
 
 // 请求数据
 type WSParam interface {
