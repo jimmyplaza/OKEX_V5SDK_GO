@@ -1,4 +1,4 @@
-module OKEX_V5SDK_GO
+module github.com/jimmyplaza/OKEX_V5SDK_GO
 
 go 1.22.5
 
