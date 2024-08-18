@@ -1,11 +1,11 @@
 /*
-	JRPC请求/响应数据
+JRPC请求/响应数据
 */
 package wImpl
 
 import (
+	. "OKEX_V5SDK_GO/utils"
 	"encoding/json"
-	. "v5sdk_go/utils"
 )
 
 // jrpc请求结构体

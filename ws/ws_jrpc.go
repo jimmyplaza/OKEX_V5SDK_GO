@@ -1,10 +1,10 @@
 package ws
 
 import (
+	. "OKEX_V5SDK_GO/ws/wImpl"
 	"context"
 	"log"
 	"time"
-	. "v5sdk_go/ws/wImpl"
 )
 
 /*

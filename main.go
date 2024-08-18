@@ -1,12 +1,12 @@
 package main
 
 import (
+	. "OKEX_V5SDK_GO/rest"
+	. "OKEX_V5SDK_GO/ws"
 	"context"
 	"fmt"
 	"log"
 	"time"
-	. "v5sdk_go/rest"
-	. "v5sdk_go/ws"
 )
 
 /*

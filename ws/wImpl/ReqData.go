@@ -5,8 +5,8 @@
 package wImpl
 
 import (
+	. "OKEX_V5SDK_GO/utils"
 	"encoding/json"
-	. "v5sdk_go/utils"
 )
 
 // 客户端请求消息格式

@@ -1,8 +1,14 @@
-module v5sdk_go
+module OKEX_V5SDK_GO
 
-go 1.15
+go 1.22.5
 
 require (
-	github.com/gorilla/websocket v1.4.2
-	github.com/stretchr/testify v1.7.0
+	github.com/gorilla/websocket v1.5.3
+	github.com/stretchr/testify v1.9.0
+)
+
+require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
